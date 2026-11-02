@@ -50,7 +50,7 @@ export const jobs = [
   {
     company: 'Sona Consolidate Pvt. Ltd.', title: 'Full Stack Developer Trainee', period: 'Jul 2024 - Jan 2025',
     projects: [{
-      name: 'Bus Management System',
+      name: 'Ticket Management System',
       image: 'projects/sona-bus.jpg',
       points: [
         'Worked on frontend and backend components of a Bus Management System.',
